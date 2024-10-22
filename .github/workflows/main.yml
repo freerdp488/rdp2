@@ -4,9 +4,7 @@ on: workflow_dispatch:
 
 jobs:
 build:
-instruction...
-gologin 21...
-name: Start Building... runs-on: windows-latest
+name: Start Building...
 timeout-minutes: 9999
 
 -name: Downloading & Installing Essentials
